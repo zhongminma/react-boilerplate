@@ -1,0 +1,1 @@
+alert("React webpack is running");
