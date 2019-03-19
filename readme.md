@@ -46,3 +46,9 @@ module: {
     extensions: ['*', '.js', '.jsx']
   }
 6. restart webpack with "npm start"
+
+Third step <react>
+1. npm install --save react react-dom
+2. add src/index.js
+OR
+install react-hot-loader
